@@ -31,8 +31,8 @@ ProbTutor is an interactive, AI-powered educational assistant designed to help s
 ## 🔗 Preview
 
 You can preview the final interactive version here:  
-👉 https://your-username.github.io/ProbTutor/  
-*(replace with your actual link after deploying with GitHub Pages)*
+👉 https://shamimsm99.github.io/ProbTutor/ 
+
 
 ---
 
